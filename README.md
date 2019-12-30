@@ -1,6 +1,6 @@
-# devtools-ext
+# chrome-extension-template
 
-开发者工具拓展
+Chrome 拓展开发模板
 
 ## 环境安装
 
